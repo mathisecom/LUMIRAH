@@ -104,7 +104,7 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
+            "title": "Acquisition du flacon rituel",
             "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
           }
         },
@@ -117,7 +117,7 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
+            "title": "Réception des recharges",
             "content": "<p>We are available from monday to friday to answer your questions.</p>"
           }
         },
@@ -130,7 +130,7 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
+            "title": "Rituel de préparation",
             "content": "<p>Your payment information is processed securely.</p>"
           }
         }
