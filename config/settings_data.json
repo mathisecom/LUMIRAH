@@ -36,6 +36,7 @@
     "product_info_alignment": "start",
     "cart_type": "drawer",
     "cart_icon": "tote_bag",
+    "cart_show_free_shipping_threshold": true,
     "checkout_accent_color": "#000000",
     "checkout_button_color": "#000000",
     "content_for_index": []
