@@ -145,7 +145,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": true,
-        "title": "<i>Comment ça marche ?</i>",
+        "title": "Comment ça marche ?",
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "small",
