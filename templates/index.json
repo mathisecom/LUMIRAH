@@ -78,10 +78,11 @@
     },
     "scrolling_text_yQJCn9": {
       "type": "scrolling-text",
+      "disabled": true,
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
+        "text": "La lumière respire en toi",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -144,7 +145,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": true,
-        "title": "Comment ça marche ?",
+        "title": "<i>Comment ça marche ?</i>",
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "small",
