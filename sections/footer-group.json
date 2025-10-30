@@ -63,10 +63,10 @@
         "full_width": true,
         "stack_on_mobile": false,
         "title": "",
-        "heading_tag": "h6",
+        "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "small",
-        "background": "",
+        "background": "#fdf8f1",
         "background_gradient": "",
         "text_color": ""
       }
