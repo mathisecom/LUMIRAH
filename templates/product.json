@@ -189,6 +189,67 @@
         "text_gradient": ""
       }
     },
+    "text_with_icons_LMrPc7": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_9TmtQM": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_hDEhme": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+          }
+        },
+        "item_QfYqB6": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_9TmtQM",
+        "item_hDEhme",
+        "item_QfYqB6"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_b6xEba": {
       "type": "media-with-text",
       "blocks": {
@@ -202,7 +263,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "Un rituel sensoriel d’exception",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "<p>Conçue avec des ingrédients raffinés et un flacon élégant, la Brume Lumirah allie luxe et bien-être. Son parfum subtil et ses textures douces créent une expérience immersive, où le quotidien devient un espace de sérénité et de douceur, révélant la beauté et la lumière de chaque instant.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -315,6 +376,7 @@
     "main",
     "media_with_text_B963d6",
     "scrolling_text_m9VxpX",
+    "text_with_icons_LMrPc7",
     "media_with_text_b6xEba",
     "rich_text_jJBLLq",
     "testimonials_x9exTR"
