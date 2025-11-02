@@ -149,22 +149,22 @@
     "press_FeJXjE": {
       "type": "press",
       "blocks": {
-        "quote_bpgBAf": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "Lucie P.",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": true,
-            "rating": 5
-          }
-        },
         "quote_n69DNz": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
             "author": "Marion R.",
-            "content": "Write some content about what they says about your store.",
+            "content": "Parfum subtil et moment de détente garanti chaque soir.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_bpgBAf": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Lucie P.",
+            "content": "Une brume douce et apaisante, je l’adore !",
             "show_rating": true,
             "rating": 5
           }
@@ -174,15 +174,15 @@
           "settings": {
             "logo_width": 100,
             "author": "Nathalie C.",
-            "content": "Write some content about what they says about your store.",
+            "content": "Très agréable, un vrai rituel de bien-être à la maison.",
             "show_rating": true,
             "rating": 4
           }
         }
       },
       "block_order": [
-        "quote_bpgBAf",
         "quote_n69DNz",
+        "quote_bpgBAf",
         "quote_pDaxd9"
       ],
       "name": "Press",
