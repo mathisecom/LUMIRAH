@@ -15,6 +15,8 @@
         "image_TUqDpY": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Generated_Image_November_02_2025_-_7_37PM.jpg",
+            "mobile_image": "shopify://shop_images/BANNER_MOBILE_19.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -27,7 +29,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "background": "",
             "background_gradient": ""
           }
