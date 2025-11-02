@@ -14,6 +14,7 @@
       "blocks": {
         "liquid_Tw47Mt": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": ""
           }
