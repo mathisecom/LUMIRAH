@@ -216,6 +216,7 @@
         "item_jqK8hC": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Sous-titre_45.jpg",
             "column_size": "3",
             "title": "Éveil de la Lumière Intérieure",
             "heading_tag": "h4",
