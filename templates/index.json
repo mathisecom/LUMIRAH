@@ -136,7 +136,7 @@
         "scrolling_speed": 10,
         "background": "#f6f4f2",
         "background_gradient": "",
-        "text_color": "#0d0b14",
+        "text_color": "#000000",
         "text_gradient": ""
       }
     },
