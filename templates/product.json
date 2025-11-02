@@ -334,7 +334,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "John S.",
             "title": "Testimonial 1",
             "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
@@ -361,12 +361,24 @@
             "title": "Testimonial 3",
             "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
           }
+        },
+        "testimonial_HKpPk3": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
         }
       },
       "block_order": [
         "testimonial_kjg4bg",
         "testimonial_Tbjfnk",
-        "testimonial_3ezRLP"
+        "testimonial_3ezRLP",
+        "testimonial_HKpPk3"
       ],
       "name": "Testimonials",
       "settings": {
