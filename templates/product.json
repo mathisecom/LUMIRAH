@@ -333,6 +333,42 @@
         "text_color": ""
       }
     },
+    "media_with_text_b6xEba": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_DLkiUr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_November_02_2025_-_6_58PM.jpg",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Un rituel sensoriel d’exception",
+            "content": "<p>Son parfum subtil et son flacon élégant offrent une expérience sensorielle unique, où le quotidien devient un espace de sérénité et de douceur.</p>",
+            "link_text": "OBTENIR MAINTENANT",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#0d0b14",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_DLkiUr"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "hot_spots_HhjQqT": {
       "type": "hot-spots",
       "blocks": {
@@ -378,6 +414,7 @@
         "item_Ty8pjK",
         "item_aGHzhb"
       ],
+      "disabled": true,
       "name": "Hot spots",
       "settings": {
         "full_width": true,
@@ -399,42 +436,6 @@
         "hot_spot_content_text_color": "#000000",
         "hot_spot_content_opacity": 90,
         "hot_spot_content_blur_radius": 3
-      }
-    },
-    "media_with_text_b6xEba": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_DLkiUr": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_November_02_2025_-_6_58PM.jpg",
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Un rituel sensoriel d’exception",
-            "content": "<p>Son parfum subtil et son flacon élégant offrent une expérience sensorielle unique, où le quotidien devient un espace de sérénité et de douceur.</p>",
-            "link_text": "OBTENIR MAINTENANT",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#0d0b14",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_DLkiUr"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": true,
-        "alternate_media_position": false,
-        "spacing": "none"
       }
     },
     "multi_column_VPHhrC": {
