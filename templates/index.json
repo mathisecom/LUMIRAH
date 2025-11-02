@@ -331,9 +331,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Julie S.",
+            "title": "J’adore cette brume !",
+            "content": "<p>Son parfum subtil crée une ambiance apaisante et transforme ma routine du soir en vrai rituel de détente.</p>"
           }
         },
         "testimonial_JJKNjC": {
@@ -342,9 +342,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Oriane J.",
+            "title": "Une expérience unique",
+            "content": "<p>Une expérience sensorielle légère et délicate qui apporte calme et bien-être immédiat.</p>"
           }
         },
         "testimonial_M3ebg3": {
@@ -354,15 +354,39 @@
             "show_rating": true,
             "rating": 4,
             "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Très agréable à utiliser !",
+            "content": "<p>Le flacon élégant et le parfum raffiné sont parfaits pour se recentrer après une longue journée.</p>"
+          }
+        },
+        "testimonial_gzGpha": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Aline A.",
+            "title": "Je recommande",
+            "content": "<p>Chaque vaporisation me transporte dans un moment de sérénité. Je me sens relaxée et reconnectée à moi-même.</p>"
+          }
+        },
+        "testimonial_cRhTPn": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Laurine T.",
+            "title": "J’adore la sensation",
+            "content": "<p>Une brume douce et raffinée qui éveille les sens et apporte une sensation apaisante avant de dormir.</p>"
           }
         }
       },
       "block_order": [
         "testimonial_Xf6wQf",
         "testimonial_JJKNjC",
-        "testimonial_M3ebg3"
+        "testimonial_M3ebg3",
+        "testimonial_gzGpha",
+        "testimonial_cRhTPn"
       ],
       "name": "Testimonials",
       "settings": {
