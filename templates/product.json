@@ -14,9 +14,8 @@
       "blocks": {
         "liquid_Tw47Mt": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
-            "liquid": ""
+            "liquid": "<div class=\"product-info__liquid\">\n  <div class=\"main-product__block main-product__block-custom_liquid\">\n    <div class=\"m-product-text\">\n      <style> \n        .badge-container {\n          display: flex;\n          gap: 10px;\n          flex-wrap: wrap;\n          margin-top: 10px;\n        }\n\n        .offer-badge {\n          display: inline-block;\n          padding: 4px 10px;\n          font-size: 12px;\n          font-weight: bold;\n          color: white;\n          background-color: #101010;\n          border-radius: 15px;\n          text-transform: uppercase;\n          white-space: nowrap;\n        }\n      </style>\n\n      <div class=\"badge-container\">\n        <div class=\"offer-badge\">QUALITÉ PREMIUM</div>\n        <div class=\"offer-badge\">EFFET LÉGER & NATUREL</div>\n      </div>\n    </div>\n  </div>\n</div>"
           }
         },
         "title": {
