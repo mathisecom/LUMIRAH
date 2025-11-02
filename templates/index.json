@@ -155,6 +155,41 @@
         "text_color": ""
       }
     },
+    "media_with_text_mBJ6iH": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_HXyLyk": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#0d0b14",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_HXyLyk"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "media_with_text_LUAhE9": {
       "type": "media-with-text",
       "blocks": {
@@ -197,7 +232,7 @@
           "type": "heading",
           "settings": {
             "text": "+3,000 Clients Satisfaits",
-            "heading_tag": "h3",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -317,6 +352,7 @@
     "featured_collection_tYeNGb",
     "scrolling_text_yQJCn9",
     "text_with_icons_bB9xWm",
+    "media_with_text_mBJ6iH",
     "media_with_text_LUAhE9",
     "rich_text_UyJFdx",
     "testimonials_bnG36Q",
