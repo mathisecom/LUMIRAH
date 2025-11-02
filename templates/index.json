@@ -56,7 +56,9 @@
       "settings": {
         "collection": "",
         "products": [
-          "brume-lumirah"
+          "brume-lumirah",
+          "carnet-lumirah",
+          "bougie-lumirah"
         ],
         "full_width": true,
         "stack_products": false,
