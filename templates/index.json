@@ -80,11 +80,10 @@
     },
     "scrolling_text_yQJCn9": {
       "type": "scrolling-text",
-      "disabled": true,
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "La lumière respire en toi",
+        "text": "La Lumière Respire en Toi",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
