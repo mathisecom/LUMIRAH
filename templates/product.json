@@ -222,11 +222,13 @@
         "image_GpigKb": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Sous-titre_40.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
-            "icon_width": 48,
+            "custom_icon": "shopify://shop_images/Sous-titre_8.png",
+            "icon_width": 56,
             "subheading": "",
             "title": "Révélez votre lumière intérieure",
             "content": "<p><strong>La Brume Lumirah transforme votre rituel quotidien en un moment sacré. </strong></p><p>Quelques pressions suffisent pour envelopper votre espace d’un voile délicat, apaisant l’esprit et éveillant vos sens. Chaque utilisation invite à la présence, à l’acceptation et à la reconnexion avec soi-même.</p>",
@@ -337,6 +339,7 @@
         "image_DLkiUr": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Sous-titre_42.jpg",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
