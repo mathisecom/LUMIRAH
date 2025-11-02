@@ -55,7 +55,9 @@
       "name": "Featured collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "brume-lumirah"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
