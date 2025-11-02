@@ -110,6 +110,16 @@
             "content": "<p>Pour les commandes passées, vous disposez de 14 jours (à compter de la date de réception de l'article) pour changer d'avis.</p>",
             "page": ""
           }
+        },
+        "associated_products_hdRHHk": {
+          "type": "associated_products",
+          "settings": {
+            "title": "Prolongez votre rituel :",
+            "stack_products": true,
+            "products_count": 5,
+            "background": "",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
@@ -125,7 +135,8 @@
         "liquid_3zNhTt",
         "liquid_Xq8Tkx",
         "collapsible_text_zJhDHw",
-        "collapsible_text_WkDX79"
+        "collapsible_text_WkDX79",
+        "associated_products_hdRHHk"
       ],
       "settings": {
         "full_width": true,
