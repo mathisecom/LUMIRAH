@@ -330,7 +330,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Julie S.",
             "title": "J’adore cette brume !",
             "content": "<p>Son parfum subtil crée une ambiance apaisante et transforme ma routine du soir en vrai rituel de détente.</p>"
@@ -363,7 +363,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Aline A.",
             "title": "Je recommande",
             "content": "<p>Chaque vaporisation me transporte dans un moment de sérénité. Je me sens relaxée et reconnectée à moi-même.</p>"
