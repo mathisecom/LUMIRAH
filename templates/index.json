@@ -263,7 +263,7 @@
         "product_rgEGXT": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "pack-rituel-lumirah",
             "horizontal_position": 52,
             "vertical_position": 25
           }
@@ -276,7 +276,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "image": "shopify://shop_images/Generated_Image_November_02_2025_-_7_00PM.png",
+        "image": "shopify://shop_images/Generated_Image_November_02_2025_-_7_00PM.jpg",
         "title": "",
         "content": "",
         "background": "",
@@ -288,7 +288,7 @@
         "product_card_text_color": "",
         "product_card_mobile_background": "",
         "product_card_mobile_text_color": "",
-        "background_dots": "#FFF"
+        "background_dots": "#ffffff"
       }
     },
     "media_with_text_LUAhE9": {
