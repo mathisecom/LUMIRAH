@@ -458,7 +458,7 @@
             "show_rating": true,
             "rating": 4,
             "author": "Oriane J.",
-            "title": "Testimonial 2",
+            "title": "Une expérience unique",
             "content": "<p>Une expérience sensorielle unique : la brume est légère, délicate et laisse une sensation de calme et de bien-être immédiat.</p>"
           }
         },
@@ -480,7 +480,7 @@
             "show_rating": true,
             "rating": 4,
             "author": "Aline A.",
-            "title": "Testimonial 3",
+            "title": "Je recommande",
             "content": "<p>Chaque vaporisation me transporte dans un moment de sérénité. Je me sens relaxée et reconnectée à moi-même, un vrai rituel sacré du soir.</p>"
           }
         },
@@ -491,7 +491,7 @@
             "show_rating": true,
             "rating": 5,
             "author": "Laurine A.",
-            "title": "Testimonial 3",
+            "title": "J’adore la sensation",
             "content": "<p>Une brume raffinée et douce qui éveille les sens. J’adore la sensation apaisante qu’elle apporte à ma chambre avant de dormir.</p>"
           }
         }
