@@ -27,11 +27,19 @@
             "text": "14 Jours pour changer d'avis",
             "url": ""
           }
+        },
+        "message_DYQwqY": {
+          "type": "message",
+          "settings": {
+            "text": "SOLDE D’AUTOMNE : Jusqu’à -50% de réduction",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_D37ap8"
+        "message_D37ap8",
+        "message_DYQwqY"
       ],
       "settings": {
         "enable_sticky": true,
