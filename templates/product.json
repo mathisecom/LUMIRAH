@@ -18,6 +18,12 @@
             "liquid": "<div class=\"product-info__liquid\"> \n  <div class=\"main-product__block main-product__block-custom_liquid\">\n    <div class=\"m-product-text\">\n      <style> \n        .badge-container {\n          display: flex;\n          gap: 10px;\n          flex-wrap: wrap;\n          margin-top: 10px;\n        }\n\n        .offer-badge {\n          display: inline-block;\n          padding: 4px 10px;\n          font-size: 10px;\n          font-weight: bold;\n          color: white;\n          background-color: #171036; /* Couleur mise à jour */\n          border-radius: 15px;\n          text-transform: uppercase;\n          white-space: nowrap;\n        }\n      </style>\n\n      <div class=\"badge-container\">\n        <div class=\"offer-badge\">QUALITÉ PREMIUM</div>\n        <div class=\"offer-badge\">EFFET LÉGER & NATUREL</div>\n      </div>\n    </div>\n  </div>\n</div>"
           }
         },
+        "liquid_ieTfnU": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<p>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -131,6 +137,7 @@
       },
       "block_order": [
         "liquid_Tw47Mt",
+        "liquid_ieTfnU",
         "title",
         "liquid_mRQxzk",
         "price",
