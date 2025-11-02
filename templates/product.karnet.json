@@ -14,6 +14,7 @@
       "blocks": {
         "liquid_Tw47Mt": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div class=\"product-info__liquid\"> \n  <div class=\"main-product__block main-product__block-custom_liquid\">\n    <div class=\"m-product-text\">\n      <style> \n        .badge-container {\n          display: flex;\n          gap: 10px;\n          flex-wrap: wrap;\n          margin-top: 10px;\n        }\n\n        .offer-badge {\n          display: inline-block;\n          padding: 4px 10px;\n          font-size: 10px;\n          font-weight: bold;\n          color: white;\n          background-color: #171036; /* Couleur mise à jour */\n          border-radius: 15px;\n          text-transform: uppercase;\n          white-space: nowrap;\n        }\n      </style>\n\n      <div class=\"badge-container\">\n        <div class=\"offer-badge\">QUALITÉ PREMIUM</div>\n        <div class=\"offer-badge\">EFFET LÉGER & NATUREL</div>\n      </div>\n    </div>\n  </div>\n</div>"
           }
@@ -44,12 +45,14 @@
         },
         "text_cj9NQa": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><strong>*Inclus Recharge d'un Mois</strong></p>"
           }
         },
         "liquid_UJTJ9i": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div class=\"product-info__liquid\">\n  <div class=\"main-product__block main-product__block-custom_liquid\">\n    <div class=\"m-product-text\">\n      <style>\n        .avantages { display: flex; flex-direction: column; gap: 5px; }\n        .avantage { display: flex; align-items: center; gap: 5px; }\n        .avantage img { \n          width: 15px; \n          height: 15px; \n          filter: brightness(0) saturate(100%) invert(12%) sepia(14%) saturate(3971%) hue-rotate(236deg) brightness(10%) contrast(83%);\n        }\n        .avantage p { font-size: 12px; margin: 0; }\n      </style>\n\n      <div class=\"avantages\">\n        <div class=\"avantage\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0246/2862/5460/files/cocher.png?v=1719351830\">\n          <p><b>Calme l’esprit</b> — Profitez d’un moment de sérénité.</p>\n        </div>\n\n        <div class=\"avantage\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0246/2862/5460/files/cocher.png?v=1719351830\">\n          <p><b>Éveille les sens</b> — Une expérience subtile pour l’odorat et l’intuition.</p>\n        </div>\n\n        <div class=\"avantage\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0246/2862/5460/files/cocher.png?v=1719351830\">\n          <p><b>Révèle votre lumière</b> — Connectez-vous à votre énergie intérieure.</p>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>"
           }
