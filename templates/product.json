@@ -92,6 +92,7 @@
           "type": "collapsible_text",
           "settings": {
             "icon": "picto-return",
+            "custom_icon": "shopify://shop_images/Sous-titre_4.png",
             "icon_width": 16,
             "title": "14 Jours pour changer d'avis",
             "content": "<p>Pour les commandes passées, vous disposez de 14 jours (à compter de la date de réception de l'article) pour changer d'avis.</p>",
