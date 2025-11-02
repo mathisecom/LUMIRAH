@@ -88,7 +88,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
-        "background": "#f9f4f2",
+        "background": "#f6f4f2",
         "background_gradient": "",
         "text_color": "#0d0b14",
         "text_gradient": ""
@@ -171,7 +171,7 @@
             "content": "<p>Lumirah est une marque de bien-être qui célèbre la spiritualité féminine et la lumière intérieure. Son essence réside dans l'invitation à la reconnexion avec soi, à travers des rituels sensoriels qui éveillent la présence et l'acceptation. </p><p>Son positionnement premium et sensoriel navigue entre mystère et douceur, offrant un espace sacré dans le quotidien.</p>",
             "link_text": "EN SAVOIR PLUS",
             "link_url": "",
-            "background": "#f9f4f2",
+            "background": "#f6f4f2",
             "background_gradient": "",
             "text_color": "#0d0b14",
             "text_gradient": "",
@@ -197,7 +197,7 @@
           "type": "heading",
           "settings": {
             "text": "+3,000 Clients Satisfaits",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
