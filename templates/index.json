@@ -197,9 +197,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Rituel de Sérénité",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Chaque geste devient un moment sacré pour ralentir, apaiser l’esprit et se reconnecter à soi-même, même dans le tumulte du quotidien.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -209,9 +209,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Éveil de la Lumière Intérieure",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Nos produits sensoriels révèlent votre énergie et votre beauté intérieure, en cultivant présence et confiance en soi.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -221,9 +221,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Expérience Sensorielle Premium",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Des textures délicates, des fragrances raffinées et des flacons élégants transforment vos rituels quotidiens en instants précieux et luxueux.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
