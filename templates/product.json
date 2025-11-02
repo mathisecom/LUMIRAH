@@ -414,6 +414,7 @@
         "item_8WaCmP",
         "item_nMwXW9"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
