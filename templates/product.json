@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_Tw47Mt": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "liquid_mRQxzk": {
           "type": "liquid",
           "settings": {
@@ -101,6 +107,7 @@
         }
       },
       "block_order": [
+        "liquid_Tw47Mt",
         "liquid_mRQxzk",
         "title",
         "price",
