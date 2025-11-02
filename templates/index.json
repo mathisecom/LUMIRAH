@@ -262,6 +262,7 @@
         "image_rVYCqV": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Sous-titre_41.jpg",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
