@@ -228,6 +228,7 @@
         "item_D3eaAX": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Sous-titre_44.jpg",
             "column_size": "3",
             "title": "Expérience Sensorielle Premium",
             "heading_tag": "h4",
