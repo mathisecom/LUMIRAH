@@ -40,7 +40,7 @@
     "text_font_size_desktop": 13,
     "heading_apparition": "split_fade",
     "show_sold_out_badge": false,
-    "show_discount": false,
+    "show_discount": true,
     "discount_mode": "percentage",
     "product_color_display": "swatch",
     "product_info_alignment": "center",
