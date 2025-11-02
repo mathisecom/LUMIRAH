@@ -37,6 +37,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_UJTJ9i": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n  <div class=\"main-product__block main-product__block-custom_liquid\">\n    <div class=\"m-product-text\">\n      <style>\n        .avantages { display: flex; flex-direction: column; gap: 6px; }\n        .avantage { display: flex; align-items: center; gap: 6px; }\n        .avantage img { width: 16px; height: 16px; filter: brightness(0) saturate(100%) invert(11%) sepia(10%) saturate(338%) hue-rotate(3deg) brightness(98%) contrast(94%); }\n        .avantage p { font-size: 13px; margin: 0; }\n      </style>\n\n      <div class=\"avantages\">\n        <div class=\"avantage\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0246/2862/5460/files/cocher.png?v=1719351830\">\n          <p><b>Calme l’esprit</b> — Profitez d’un moment de détente et de sérénité à chaque utilisation.</p>\n        </div>\n\n        <div class=\"avantage\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0246/2862/5460/files/cocher.png?v=1719351830\">\n          <p><b>Éveille les sens</b> — Une expérience sensorielle subtile qui stimule l’odorat et l’intuition.</p>\n        </div>\n\n        <div class=\"avantage\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0246/2862/5460/files/cocher.png?v=1719351830\">\n          <p><b>Révèle votre lumière</b> — Chaque rituel vous connecte à votre énergie intérieure et à votre bien-être.</p>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>"
+          }
+        },
         "description": {
           "type": "description",
           "disabled": true,
@@ -112,6 +118,7 @@
         "liquid_mRQxzk",
         "title",
         "price",
+        "liquid_UJTJ9i",
         "description",
         "variant_picker",
         "quantity_selector",
