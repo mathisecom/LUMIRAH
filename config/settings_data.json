@@ -28,6 +28,7 @@
     "secondary_button_text_color": "#ffffff",
     "product_card_text_color": "#000000",
     "product_rating_color": "#00b67a",
+    "product_on_sale_accent": "#0c0c0c",
     "product_primary_badge_background": "#803cee",
     "heading_font": "playfair_display_i5",
     "heading_font_size": "medium",
