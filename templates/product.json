@@ -119,6 +119,7 @@
         },
         "associated_products_hdRHHk": {
           "type": "associated_products",
+          "disabled": true,
           "settings": {
             "title": "Prolongez votre rituel :",
             "stack_products": true,
