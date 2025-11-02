@@ -167,7 +167,7 @@
         "image_HXyLyk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sous-titre_40.jpg",
+            "image": "shopify://shop_images/Generated_Image_November_02_2025_-_7_16PM_f4e20f20-6b8a-48d6-b991-d3258fb6a538.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -217,6 +217,7 @@
         "item_jqK8hC": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Generated_Image_November_02_2025_-_7_16PM.jpg",
             "column_size": "3",
             "title": "Éveil de la Lumière Intérieure",
             "heading_tag": "h4",
