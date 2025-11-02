@@ -333,6 +333,74 @@
         "text_color": ""
       }
     },
+    "hot_spots_HhjQqT": {
+      "type": "hot-spots",
+      "blocks": {
+        "item_CyYVdt": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 24,
+            "vertical_position": 70,
+            "horizontal_position_mobile": 24,
+            "vertical_position_mobile": 70,
+            "icon_width": 32,
+            "title": "Feature name",
+            "content": "<p>Share useful information about your product features.</p>"
+          }
+        },
+        "item_Ty8pjK": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 62,
+            "vertical_position": 14,
+            "horizontal_position_mobile": 62,
+            "vertical_position_mobile": 14,
+            "icon_width": 32,
+            "title": "Feature name",
+            "content": "<p>Share useful information about your product features.</p>"
+          }
+        },
+        "item_aGHzhb": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 83,
+            "vertical_position": 75,
+            "horizontal_position_mobile": 83,
+            "vertical_position_mobile": 75,
+            "icon_width": 32,
+            "title": "Feature name",
+            "content": "<p>Share useful information about your product features.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_CyYVdt",
+        "item_Ty8pjK",
+        "item_aGHzhb"
+      ],
+      "name": "Hot spots",
+      "settings": {
+        "full_width": true,
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "desktop_text_position": "place-self-start text-start",
+        "image_background": "",
+        "image_background_gradient": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "overlay_text_color": "#ffffff",
+        "overlay_button_background": "",
+        "overlay_button_text_color": "",
+        "hot_spot_dot_background": "#ffffff",
+        "hot_spot_dot_text_color": "#000000",
+        "hot_spot_content_background": "#ffffff",
+        "hot_spot_content_text_color": "#000000",
+        "hot_spot_content_opacity": 90,
+        "hot_spot_content_blur_radius": 3
+      }
+    },
     "media_with_text_b6xEba": {
       "type": "media-with-text",
       "blocks": {
@@ -554,6 +622,7 @@
     "scrolling_text_m9VxpX",
     "text_with_icons_LMrPc7",
     "media_with_text_b6xEba",
+    "hot_spots_HhjQqT",
     "multi_column_VPHhrC",
     "rich_text_jJBLLq",
     "testimonials_x9exTR"
