@@ -317,7 +317,7 @@
           "type": "image",
           "settings": {
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
