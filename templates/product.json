@@ -456,7 +456,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 5,
+            "rating": 4,
             "author": "Oriane J.",
             "title": "Testimonial 2",
             "content": "<p>Une expérience sensorielle unique : la brume est légère, délicate et laisse une sensation de calme et de bien-être immédiat.</p>"
@@ -478,7 +478,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 5,
+            "rating": 4,
             "author": "Aline A.",
             "title": "Testimonial 3",
             "content": "<p>Chaque vaporisation me transporte dans un moment de sérénité. Je me sens relaxée et reconnectée à moi-même, un vrai rituel sacré du soir.</p>"
