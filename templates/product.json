@@ -36,6 +36,12 @@
             "show_taxes_notice": false
           }
         },
+        "text_cj9NQa": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>*Inclus Recharge d'un Mois</strong></p>"
+          }
+        },
         "liquid_UJTJ9i": {
           "type": "liquid",
           "settings": {
@@ -127,6 +133,7 @@
         "title",
         "liquid_mRQxzk",
         "price",
+        "text_cj9NQa",
         "liquid_UJTJ9i",
         "description",
         "variant_picker",
