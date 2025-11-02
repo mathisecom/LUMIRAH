@@ -203,6 +203,7 @@
         "item_i99Te7": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Sous-titre_42.jpg",
             "column_size": "3",
             "title": "Rituel de Sérénité",
             "heading_tag": "h4",
