@@ -203,7 +203,6 @@
         "item_i99Te7": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Sous-titre_42.jpg",
             "column_size": "3",
             "title": "Rituel de Sérénité",
             "heading_tag": "h4",
@@ -216,7 +215,6 @@
         "item_jqK8hC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Generated_Image_November_02_2025_-_6_58PM.png",
             "column_size": "3",
             "title": "Éveil de la Lumière Intérieure",
             "heading_tag": "h4",
@@ -229,7 +227,6 @@
         "item_D3eaAX": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Sous-titre_44.jpg",
             "column_size": "3",
             "title": "Expérience Sensorielle Premium",
             "heading_tag": "h4",
