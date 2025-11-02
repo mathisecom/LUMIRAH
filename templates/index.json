@@ -50,6 +50,49 @@
         "background_gradient": ""
       }
     },
+    "slideshow_NnXXJr": {
+      "type": "slideshow",
+      "blocks": {
+        "image_BBXxft": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sans_titre_-_2022-09-12T155614.648.jpg",
+            "mobile_image": "shopify://shop_images/Sans_titre_-_2022-09-12T155614.648.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_BBXxft"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    },
     "featured_collection_tYeNGb": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -485,6 +528,7 @@
   },
   "order": [
     "slideshow_jNp9m6",
+    "slideshow_NnXXJr",
     "featured_collection_tYeNGb",
     "scrolling_text_yQJCn9",
     "text_with_icons_bB9xWm",
