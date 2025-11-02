@@ -46,7 +46,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -144,7 +144,7 @@
       "name": "Text with icons",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": true,
+        "stack_on_mobile": false,
         "title": "Comment ça marche ?",
         "heading_tag": "h5",
         "text_alignment": "center",
@@ -166,9 +166,9 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "link_text": "",
+            "title": "À propos de Lumirah",
+            "content": "<p>Lumirah est une marque de bien-être qui célèbre la spiritualité féminine et la lumière intérieure. Son essence réside dans l'invitation à la reconnexion avec soi, à travers des rituels sensoriels qui éveillent la présence et l'acceptation. </p><p>Son positionnement premium et sensoriel navigue entre mystère et douceur, offrant un espace sacré dans le quotidien.</p>",
+            "link_text": "EN SAVOIR PLUS",
             "link_url": "",
             "background": "#f9f4f2",
             "background_gradient": "",
