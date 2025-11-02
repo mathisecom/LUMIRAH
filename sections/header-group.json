@@ -24,7 +24,7 @@
         "message_D37ap8": {
           "type": "message",
           "settings": {
-            "text": "14 jours pour changer d'avis",
+            "text": "14 Jours pour changer d'avis",
             "url": ""
           }
         }
@@ -38,7 +38,7 @@
         "autoplay": false,
         "cycle_speed": 6,
         "text_size": "text-xs",
-        "navigation_mode": "arrows",
+        "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#0d0b14",
         "background_gradient": "",
