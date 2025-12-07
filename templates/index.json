@@ -215,8 +215,8 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "title": "La Transformation Que Vous Vivez Avec Lumirah",
-        "heading_tag": "h5",
+        "title": "La Transformation Lumirah",
+        "heading_tag": "h4",
         "text_alignment": "center",
         "icon_spacing": "medium",
         "background": "",
