@@ -223,6 +223,70 @@
         "logo_item_border": ""
       }
     },
+    "text_with_icons_B8j6Rq": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_RXWr4W": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/CREA_1080X1080_44.png",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_YxGyGp": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/CREA_1080X1080_45.png",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+          }
+        },
+        "item_EMMPKt": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/CREA_1080X1080_46.png",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_RXWr4W",
+        "item_YxGyGp",
+        "item_EMMPKt"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_B963d6": {
       "type": "media-with-text",
       "blocks": {
@@ -649,6 +713,7 @@
   "order": [
     "main",
     "press_FeJXjE",
+    "text_with_icons_B8j6Rq",
     "media_with_text_B963d6",
     "scrolling_text_m9VxpX",
     "text_with_icons_LMrPc7",
